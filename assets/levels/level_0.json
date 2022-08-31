@@ -1,0 +1,33 @@
+{
+    "boardSize": {
+        "rows": 5,
+        "columns": 5
+    },
+    "cars": [
+        {
+            "type": "green",
+            "boardPosition": {
+                "row": 0,
+                "column": 2
+            },
+            "isVertical": false
+        },
+        {
+            "type": "lemon",
+            "boardPosition": {
+                "row": 2,
+                "column": 3
+            },
+            "isVertical": true
+        },
+        {
+            "type": "green",
+            "boardPosition": {
+                "row": 2,
+                "column": 0
+            },
+            "isVertical": false
+        }
+    ],
+    "blockers": []
+}
