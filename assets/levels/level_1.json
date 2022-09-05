@@ -39,70 +39,70 @@
     ],
     "blockers": [
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 0,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 1,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 2,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 3,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 4,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 5,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 6,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 7,
                 "column": 8
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 7,
                 "column": 7
             }
         },
         {
-            "type": "traffic-corn",
+            "type": "traffic-cone",
             "boardPosition": {
                 "row": 7,
                 "column": 6
